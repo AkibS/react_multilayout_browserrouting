@@ -41,7 +41,7 @@ We need to do URL Rewrite implementation for IIS
   </system.webServer>
 </configuration>`
 
-### Without SubDirectory
+### Without Sub Directory
 
 `<?xml version="1.0" encoding="UTF-8"?>
 <configuration>
