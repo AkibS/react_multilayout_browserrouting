@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Route} from 'react-router-dom';
 import LoginLayoutRoutes from './loginLayoutRoutes';
 import AppLayoutRoutes from './appLayoutRoutes';
 
-const publicPath = '/testapp/';
+const publicPath = '/testapp/'
 
 var layoutAssignments = {
     '/': LoginLayoutRoutes,
